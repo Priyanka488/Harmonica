@@ -1,1 +1,1 @@
-Harmonica is an open-source android application that translates music notes into harmonica numeric notations!
+Harmonica is an open-source android application that translates sargam music notes into harmonica numeric notations!
